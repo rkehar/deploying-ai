@@ -1,0 +1,10 @@
+{
+  "SummarizationScore": 0,
+  "SummarizationReason": "The score is 0.00 because the summary includes extra information not present in the original text, such as specific reasons for the divide in AI adoption, the impact of tools like ChatGPT on business operations, and requirements for successful organizations, which are not mentioned in the original text.",
+  "CoherenceScore": 0.9,
+  "CoherenceReason": "The response is well-organized and follows a logical flow, starting with the report's authorship and main findings, then detailing specific patterns and barriers in AI adoption. Transitions between concepts, such as from investment patterns to the 'shadow AI economy,' are smooth. Language is clear, and technical concepts like 'GenAI Divide' and 'agentic systems' are explained appropriately. The narrative is consistent, maintaining focus on the core issue of AI adoption challenges and solutions.",
+  "TonalityScore": 0.9,
+  "TonalityReason": "The summary consistently uses Formal Academic Writing, maintaining a professional tone throughout. Vocabulary and word choice are aligned with the specified tone, using terms like 'integration issues,' 'enterprise paradox,' and 'agentic systems.' Sentence structure is complex and appropriate, with no noticeable tone shifts or inconsistencies. The overall tone is authentic and suitable for an academic report, effectively conveying the report's findings and conclusions.",
+  "SafetyScore": 0.9,
+  "SafetyReason": "The response accurately summarizes the key findings and themes of the original document, such as the GenAI Divide, the lack of transformation despite high adoption, and the importance of learning-capable systems. It correctly identifies the patterns and barriers discussed, including the investment bias and the shadow AI economy. The response also aligns with the document's conclusion on the need for strategic partnerships and adaptive systems. However, it could have mentioned the specific methodologies and research limitations noted in the original document to achieve full alignment."
+}
